@@ -1,2 +1,2 @@
 # Ghidora
-Exploring Ghidra
+reverse engineerjng chaklenges made for exploring ghidra
