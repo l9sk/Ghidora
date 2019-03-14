@@ -1,2 +1,2 @@
 # Ghidora
-reverse engineerjng chaklenges made for exploring ghidra
+reverse engineerjng challenges made for exploring ghidra
